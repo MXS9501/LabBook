@@ -6,13 +6,13 @@ iCas-sgEGFP Work
 ----
 
 # iCas plasmid extraction
-	1. Small culture from glycerol stock, tube number #84232, using 5 ml with 5 ul ampcillin, overnight, 37 degree
-	2. Transfer 5 ml to 15 ml LB broth, 20 ml in total, keep cultureing until become disence.
-	3. Collect the becteria with 8500 rpm, 10 min.
+	1. Small culture from glycerol stock, tube number #84232, using 5 ml with 5 ul ampicillin, overnight, 37 degree
+	2. Transfer 5 ml to 15 ml LB broth, 20 ml in total, keep culturing until become disence.
+	3. Collect the bacteria with 8500 rpm, 10 min.
 	4. Using QIAGEN mini-prep extraction kit to isolate iCas plasmid.
 
-# Linearization of iCas vector
-	1. prepare the following digestioin mix:
+# Linearizion of iCas vector
+	1. prepare the following digestion mix:
 		- Isolated iCas vector, 2 ug
 		- FastDigest BplI, 2 ul
 		- 20x SAM, 2 ul
@@ -23,10 +23,10 @@ iCas-sgEGFP Work
 	4. Perform a dephosphorylation step by adding 2µl antarctic shrimp phosphatase to the reaction and incubate for 30 minutes at 37°C.
 	5. Run the content on the gel, 2x20 ul, 0.8% agarose gel, 100V, 90 min, BplI digestion should result in 13048 bp.
 
-# Annealing of sgEGFP for dulplexes
+# Annealing of sgEGFP for duplexes
 	1. Make Mix
 		-100 uM Sense Oligo,sgEGFP, 1 ul
-		-100 uM Aitisense Oligo, sgEGFP, 1 ul
+		-100 uM Antisense Oligo, sgEGFP, 1 ul
 		-10x T4 Ligase Buffer, 1 ul
 		-T4 PNK, 1 ul
 		-DEPC Waster, 6 ul
