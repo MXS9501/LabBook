@@ -1,6 +1,9 @@
+Lab Protocol
+---
 Western Blot Buffer and Reagent
 ---
-Jiahao Cui, 20200911
+Author: Jiahao Cui
+Date: 20200911
 ---
 # 10% APS (5 mL)
 	-50 mg APS
