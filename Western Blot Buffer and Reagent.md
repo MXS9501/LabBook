@@ -12,6 +12,7 @@ Jiahao Cui, 20200911
 # 1.5M Tris, PH 8.8
 	-3.633 g Tris Base
 	-20 ml DEPC water
+	Adjust pH to 8.8 with HCl
 # 10X Tris-Glycine Running Buffer
 	-1 L Milli-Q water
 	-30.28 g Tris base (250mM)
