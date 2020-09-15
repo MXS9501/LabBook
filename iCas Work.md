@@ -1,9 +1,6 @@
-Lab Protocol
-----
-Project: iCas Work
+>Project: iCas Work
 Author: Jiahao Cui
 Date: 20200915
-----
 iCas-sgEGFP Work
 ----
 
