@@ -7,7 +7,7 @@ Date: 20200915
 iCas-sgEGFP Work
 ----
 
-# iCas plasmid extraction
+# ***iCas plasmid extraction***
 >1. Small culture from glycerol stock, tube number #84232, using 5 ml with 5 ul ampicillin, overnight, 37 degree
 >>2. Transfer 5 ml to 15 ml LB broth, 20 ml in total, keep culturing until become disence.
 	3. Collect the bacteria with 8500 rpm, 10 min.
