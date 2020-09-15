@@ -76,7 +76,7 @@ iCas-sgEGFP Work
 		-Reverse Primer (sg EGFP antisense Oligo, 10 uM), 2 ul
 		- PCR Master Mix, 25 ul
 		-ddH2O to 50 ul
-	3. Pick colonies randomly present on the agar plate using a 10 u pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB Agar plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
+	3. Pick colonies randomly present on the agar plate using a 10 u pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB Agar 	plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
 	4. Set PCR reaction condition:
 		-Initial denaturation, 95 degree, 5 min.
 		-30 cycles,	95 degree, 30 sec
