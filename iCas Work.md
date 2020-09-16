@@ -63,13 +63,13 @@ iCas-sgEGFP Work<br/>
 		-Takara Taq (5U/ul), 0.25 ul
 		-10X PCR Buffer (Mg++ plus), 5 ul
 		-dNTP, 4 ul
-		-Forward Primer (T7 Primer 5', 10 uM), 2 ul
-		-Reverse Primer (sgEGFP antisense Oligo, 10 uM), 2 ul
+		-Forward Primer (sgEGFP-Forward, 10 uM), 2 ul
+		-Reverse Primer (M13-Reverse, 10 uM), 2 ul 
 		-ddH2O to 50 ul
 
 		OR Using PCR Master Mix (Sangon or YEASEN Company)
-		-Forward Primer (T7 Primer 5', 10 uM), 2 ul
-		-Reverse Primer (sg EGFP antisense Oligo, 10 uM), 2 ul
+		-Forward Primer (sgEGFP-Forward, 10 uM), 2 ul
+		-Reverse Primer (M13-Reverse, 10 uM), 2 ul 
 		- PCR Master Mix, 25 ul
 		-ddH2O to 50 ul
 	3. Pick colonies randomly present on the agar plate using a 10 u pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB Agar 	plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
