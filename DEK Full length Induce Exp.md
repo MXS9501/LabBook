@@ -30,13 +30,13 @@ DEK full length Induce Exp.>>>>Cell System: BL21
 	3. Incubate tubes for 2 hours
 
 # SDS-PAGE
-```
-1. centrifuge the tubes at 10,000 xg at 4 degree for 5 min.
-2. Discard supernatant
-3. Add lyse cells using 40 ul 2% SDS.
-4. Heat tubes at 95 degree for 15 min.
-5. Mix with Protein loading dye, Beyotime Company.
-6. Load samples onto 10% SDS gel. Make four gels, two for Western Blot, two for Coomassie Blue.
+
+	1. centrifuge the tubes at 10,000 xg at 4 degree for 5 min.
+	2. Discard supernatant
+	3. Add lyse cells using 40 ul 2% SDS.
+	4. Heat tubes at 95 degree for 15 min.
+	5. Mix with Protein loading dye, Beyotime Company.
+	6. Load samples onto 10% SDS gel. Make four gels, two for Western Blot, two for Coomassie Blue.
 	>>>>10 % Separating Gel
 		- 30% PA, 4.2 ml
 		- 5 % SG, 2.5 ml
@@ -49,8 +49,8 @@ DEK full length Induce Exp.>>>>Cell System: BL21
 		- water, 1.8 ml
 		- TEMED, 20 ul
 		- 20% APS, 60 ul
-7. Run the separation at 110V for 90 min.
-```
+	7. Run the separation at 110V for 90 min.
+
 
 # Coomassie Blue Stain
 	stain the gel using Coomassie Super Fast Blue from Beyotime for 15 min, and destain using DEPC water.
