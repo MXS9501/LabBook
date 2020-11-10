@@ -59,7 +59,7 @@ iCas-sgEGFP Work
 	9. Spread the 100 ul Mixture and grow in an incubator overnight at 37 degree.
 
 # Identification of correctly Cloned Plasmid by Colony PCR and Miniprep
-	1. Set a Backup LB Agar (containing Ampicillin), and linear at the bottom of dish into 12 sections.
+	1.Set a Backup LB Agar (containing Ampicillin), and linear at the bottom of dish into 12 sections.
 	2.Set a PCR mix (Each Tube):
 		-Takara Taq (5U/ul), 0.25 ul
 		-10X PCR Buffer (Mg++ plus), 5 ul
