@@ -1,17 +1,17 @@
-Lab Protocol>>>>Project: Microcysitis qPCR Work
+Lab Protocol>>>>Project: Microcystis qPCR Work
 ---
 Author: Jiahao Cui>>>>Date: 20201110
 ---
 # Cell Number Counting
 
-Algae is cultured until OD value reached 1.2 (Details in Culture Protocol), the cell number is calculated by CASY system. The cell number at least 2.0x108 is needed.
+Algae is cultured until OD value reached 1.2, the cell number is calculated by CASY system.
 
 # mRNA Isolation
 	1.	Algae is collected and pelleted by centrifuged (10,000 xg, 3 mins), the supernatant is discared.
 	2.	Add in bead beater tubes ~100μl of 0,1mm-beads. Bead beat for 1 min.
 	3.	Add 1 ml TRI Reagent into the tube, the pelleted was resuspended quickly and totally, and immediately flash frozen in Liquid Nitrogen.
 	4.	Melt sample at 60 degree (not totally, make ice just disappear), and freeze sample using Liquid Nitrogen.
-	5.	Melt sample at 60 degree (not totally, make ice just disappear), and freeze sample using Liquid Nitrogen .
+	5.	Melt sample at 60 degree (not totally, make ice just disappear), and freeze sample using Liquid Nitrogen.
 	6.	Heat tubes at 60°C, 10 mins. 
 	7.	Spin down at 12000 rpm for 10 mins, 4°C, then put the supernatant in a 2 ml clean tube, with 200 μl chloroform, incubating 5 mins at RT’
 	8.	Spin down the mixture at 12,000 rpm for 3 min, 4°C
@@ -30,7 +30,7 @@ Algae is cultured until OD value reached 1.2 (Details in Culture Protocol), the 
 	2. Incubate at 37 degree for 30 min.
 	3. Add 1 ul stop solution into the Mixture.
 
-#  cDNA Step (USE cDNA Kit)
+# cDNA Step (USE cDNA Kit)
 	1. Prepare Mix A: 6 ul RNA, 1 ul Oligo Primer, 1 ul Random Primer.
 	2. Prepare Mix B:  
 		>>>> For one tube amount
@@ -48,7 +48,7 @@ Algae is cultured until OD value reached 1.2 (Details in Culture Protocol), the 
 	- Cool Down to 4 degree and hold. 
 
 # qPCR Step 
-	1. Dilute cDNA product 10 time.
+	1. Dilute cDNA product 10 times.
 	2. Prepare Master-Master Mix
 		>>> For one well amount
 		- PCR Master Mix, 10 ul
