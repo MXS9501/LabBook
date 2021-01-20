@@ -1,8 +1,8 @@
 Lab Protocol>>>>Project: iCas Work
 ---
-Author: Jiahao Cui>>>>Date: 20200915
+Author: Jiahao Cui>>>>Date: 20210120
 ---
-iCas-sgEGFP Work
+iCas-sgRNA Work
 ---
 # iCas plasmid extraction
 	1. Small culture from glycerol stock, tube number #84232, using 5 ml with 5 ul ampicillin, overnight, 37 degree
@@ -54,9 +54,9 @@ iCas-sgEGFP Work
 	4. Heat shock competent cells at 42 degree for 90 sec.
 	5. Incubate Mix on ice for 3 min.
 	6. Add 250 ul LB Broth into tube and incubate at 37 degree for 45 min.
-	7. Spin down the bacteria at 6500 rpm, 1 min.
-	8. Discard 200 ul supernatant and re-suspend the pellet with 100 ul remaining liquid.
-	9. Spread the 100 ul Mixture and grow in an incubator overnight at 37 degree.
+	7. Spin down the bacteria at 8500 rpm, 1 min.
+	8. Discard 250 ul supernatant and re-suspend the pellet with 50 ul remaining liquid.
+	9. Spread the 50 ul Mixture and grow in an incubator overnight at 37 degree.
 
 # Identification of correctly Cloned Plasmid by Colony PCR and Miniprep
 	1.Set a Backup LB Agar (containing Ampicillin), and linear at the bottom of dish into 12 sections.
@@ -69,11 +69,11 @@ iCas-sgEGFP Work
 		-ddH2O to 50 ul
 
 		OR Using PCR Master Mix (Sangon or YEASEN Company)
-		-Forward Primer (sgEGFP-Forward, 10 uM), 2 ul
-		-Reverse Primer (M13-Reverse, 10 uM), 2 ul 
-		- PCR Master Mix, 25 ul
-		-ddH2O to 50 ul
-	3. Pick colonies randomly present on the agar plate using a 10 u pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB Agar 	plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
+		-Forward Primer (sgEGFP-Forward, 10 uM), 0.4 ul
+		-Reverse Primer (M13-Reverse, 10 uM), 0.4 ul 
+		- PCR Master Mix, 10 ul
+		-ddH2O to 20 ul, 8.2
+	3. Pick single colony randomly present on the agar plate using a 200 ul pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB 		Agar plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
 	4. Set PCR reaction condition:
 		-Initial denaturation, 95 degree, 5 min.
 		-30 cycles,	95 degree, 30 sec
