@@ -72,7 +72,7 @@ iCas-sgRNA Work
 		-Forward Primer (sgEGFP-Forward, 10 uM), 0.4 ul
 		-Reverse Primer (M13-Reverse, 10 uM), 0.4 ul 
 		- PCR Master Mix, 10 ul
-		-ddH2O to 20 ul, 8.2
+		-ddH2O to 20 ul, 8.2 ul
 	3. Pick single colony randomly present on the agar plate using a 200 ul pipette tip, before swiping it in the PCR tube, inoculate the tip on the Backup LB 		Agar plate softly. (Mark the orders clearly, e.g. 1# on the plate, also 1# on the tube).
 	4. Set PCR reaction condition:
 		-Initial denaturation, 95 degree, 5 min.
