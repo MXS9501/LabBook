@@ -10,7 +10,7 @@ iCas-sgRNA Work
 	3. Collect the bacteria with 8500 rpm, 10 min.
 	4. Using QIAGEN mini-prep extraction kit to isolate iCas plasmid.
 
-# Linearizion of iCas vector
+# Linearization of iCas vector
 	1. prepare the following digestion mix:
 		- Isolated iCas vector, 2 ug
 		- FastDigest BplI, 2 ul
