@@ -1,8 +1,8 @@
 Lab Protocol>>>>Project: iCas Work
 ---
-Author: Jiahao Cui>>>>Date: 20200915
+Author: Jiahao Cui>>>>Date: 20210310
 ---
-iCas-sgEGFP Work
+iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 ---
 # iCas plasmid extraction
 	1. Small culture from glycerol stock, tube number #84232, using 5 ml with 5 ul ampicillin, overnight, 37 degree
@@ -77,14 +77,43 @@ iCas-sgEGFP Work
 	4. Set PCR reaction condition:
 		-Initial denaturation, 95 degree, 5 min.
 		-30 cycles,	95 degree, 30 sec
-						    60 degree, 30 sec
-						    72 degree, 30 sec/Kb
+					60 degree, 30 sec
+					72 degree, 30 sec/Kb
 		-Final Extension, 72 degree, 10 min
 		-Hold at 4 degree.
 	5. Run all reactions out on 0.8 % agarose gel. Visualize in a gel imaging system.
 	6. Inoculate the positive colonies in 5 ml LB Broth with ampicillin, for overnight.
 	7. make the Glycerol Stock and isolate the plasmid using a miniprep kit.
+#	Double Enzyme Check to the iCas backbone
+	1. Digest the sequence-correct plasmid with XbaI and SnaBbI for 3 hours
+	2. Run 1% Agarose Gel, with 100 V for 90 min.
+#	Maxi Prep
+	1. Choose the right-sequence with right Backbone colony
+	2. Samll culture in 5 mL LB Broth with antibiotic for overnight.
+	3. Transfer the 5 ml into 200 mL LB Broth with antibiotis, incuubate the bacteria untill OD600=0.8
+	4. Spin down all bacteria with 8500 rpm, 15 min.
+	5. Do Maxi Prep following Kit protocol.
+	6. Elute DNA with DEPC water for 300~400 ul.
+	note: centrifugation is suggested after getting cell lysis and incubation with buffer.
+#	Mammalian cell culture (adherent cells)
+	Note: All Reagent which is used for tissue culture shall be heated in 37 degree waterbath first.
+	1. Thaw 1 ml Hela S3 with 37 degree water bath, transfer the cell into 15 ml centrifuge tube with 2 ml PBS.
+	2. Spin down the cell with 1000rpm, 1 min.
+	3. Discrd the supernatant, resuspend the cell using 1 mL DMEM with 10% FBS.
+	4. Transfer the cells onto 100mm dish (14 ml DMEM inside already) with 10% FBS in DMEM, recover overnight in 37°C, 5% CO2
+	5. Passage the cell while they are attached to walls and confluent. 
+	6. Examine under a microscope to make sure they are well incubated.
+	7. Aspirate the media and wash by 10 mL PBS. Then aspirate the PBS. Do this step twice.
+	8. Add 2 ml 0.25% trypsin-EDTA and swirl the plate to distribute evenly. Incubate at 37C, 1 minutes (do not over or under-trypsinize, check by gently bumping the plate on the table and then look at the floating cells under the microscope).
+	9. Add 4 mL DMEM with FBS to neutralize trypsin. 
+	10. Pipette the cells softly to dissociate the cell clumps into single cells.
+	11. Transfer 2 mL (6 mL to total) cells into a new dish (this represent a 1:3 split; higher or lower splitting ratios may be needed).
+	12. Incubate at 37C overnight, next day check the situation.
+#	Transfection using Lipofectamine 2000.
+	1.
 
 
-
-
+#	FACS Checking OFP
+	1.
+#	4-HT Treatment
+	1.
