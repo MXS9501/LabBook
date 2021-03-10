@@ -116,7 +116,7 @@ iCas-sgRNA Work
 	11. Transfer 2 mL (6 mL to total) cells into a new dish (this represent a 1:3 split; higher or lower splitting ratios may be needed).
 	12. Incubate at 37C overnight, next day check the situation.
 #	Transfection using Lipofectamine 2000.
-	1.
+	1.5.
 
 
 #	FACS Checking OFP
