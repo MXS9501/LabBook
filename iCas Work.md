@@ -110,10 +110,14 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	11. Transfer 2 mL (6 mL to total) cells into a new dish (this represent a 1:3 split; higher or lower splitting ratios may be needed).
 	12. Incubate at 37C overnight, next day check the situation.
 #	Transfection using Lipofectamine 2000.
-	Note: ALl reagent should be prepared well bafore strat this part.
+	Note: ALl reagent should be prepared well before starting this part.
 	1. Seed cells to be 70%-90% confluent at transfection
-	2. Dilute Lipofectamine Reagent in Opti-MEM Medium.
-	3. Dilute DNA in Opti-MEM Medium
+	2. Dilute Lipofectamine Reagent in Opti-MEM Medium, add 30 ul Lipo2000 into 500 ul pure DMEM
+	3. Dilute DNA in Opti-MEM Medium, add 14 ug into 500 pure DMEM
+	4. Mix Diluted DNA and Diluted Lipo2000, 1:1
+	5. Incubate for 5 minutes at RT
+	6. Add DNA -Lipo2000 complex to cells.
+	7. InCubate cells for 1-3 days at 37 degree.
 
 
 #	FACS Checking OFP
