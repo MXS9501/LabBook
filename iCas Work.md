@@ -20,7 +20,7 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	2. Mix Gentle and spin down
 	3. Incubate the reaction for 3 hours at 37 degree.
 	4. Perform a dephosphorylation step by adding 2µl antarctic shrimp phosphatase to the reaction and incubate for 30 minutes at 37°C.
-	5. Run the content on the gel, 2x20 ul, 0.8% agarose gel, 100V, 90 min, BplI digestion should result in 13048 bp.
+	5. Run the content on the gel, 2x20 ul, 1 % agarose gel, 100V, 90 min, BplI digestion should result in 13048 bp.
 
 # Annealing of sgEGFP for duplexes
 	1. Make Mix
@@ -31,7 +31,7 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 		-DEPC Water, 6 ul
 		Total in 10 ul
 	2. Short vortex and spin down.
-	3.Set up the following reacrion condition in a thermal cycler: 37 degree for 30 min, 65 degree for 20 min, ramp down to 4 degree at 6 degree per min, and hold at 4 degree.
+	3.Set up the following reaction condition in a thermal cycler: 37 degree for 30 min, 65 degree for 20 min, ramp down to 4 degree at 6 degree per min, and hold at 4 degree.
 
 # Cloning sgEGFP into iCas vector
 	1. Dilute the annealed oligos 1:100, e.g., add 2 ul annealed oligos to 198 ul water
@@ -91,21 +91,20 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 
 # Maxi Prep
 	1. Choose the right-sequence with right Backbone colony
-	2. Samll culture in 5 mL LB Broth with antibiotic for overnight.
-	3. Transfer the 5 ml into 200 mL LB Broth with antibiotis, incuubate the bacteria untill OD600=0.8
+	2. Small culture in 5 mL LB Broth with antibiotic for overnight.
+	3. Transfer the 5 ml into 200 mL LB Broth with antibiotics, incubate the bacteria until OD600=0.8
 	4. Spin down all bacteria with 8500 rpm, 15 min.
 	5. Do Maxi Prep following Kit protocol.
 	6. Elute DNA with DEPC water for 300~400 ul.
 	note: centrifugation is suggested after getting cell lysis and incubation with buffer.
 
 # Mammalian cell culture (adherent cells, HeLa S3)
-	Note: All Reagent which is used for tissue culture shall be heated in 37 degree waterbath first.
-	Note: FBS should be melt in 4 degree overnight, before aliquoting into 50 mL tubes, FBS shoule be inactived under 55 degree.
+	Note: All Reagent which is used for tissue culture shall be heated in 37 degree water-bath first.
+	Note: FBS should be melt in 4 degree overnight, before aliquot into 50 mL tubes, FBS should be inactivated under 55 degree.
 	Note: Typsin-EDTA should be melt in 4 degree. Before adding into plate, do pre-heat at RT.
-	
 	1. Thaw 1 ml Hela S3 with 37 degree water bath, transfer the cell into 15 ml centrifuge tube with 2 ml PBS.
-	2. Spin down the cell with 1000rpm, 1 min.
-	3. Discrd the supernatant, resuspend the cell using 1 mL DMEM with 10% FBS.
+	2. Spin down the cell with 1000 rpm, 1 min.
+	3. Discard the supernatant, re-suspend the cell using 1 mL DMEM with 10% FBS.
 	4. Transfer the cells onto 100 mm dish (14 ml DMEM inside already) with 10% FBS in DMEM, recover overnight in 37°C, 5% CO2
 	5. Passage the cell while they are attached to walls and confluent. 
 	6. Examine under a microscope to make sure they are well incubated.
@@ -124,7 +123,7 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	4. Mix Diluted DNA and Diluted Lipo2000, 1:1
 	5. Incubate for 5 minutes at RT
 	6. Add DNA -Lipo2000 complex to cells.
-	7. InCubate cells for 1-3 days at 37 degree.
+	7. Incubate cells for 1-3 days at 37 degree.
 
 
 # FACS Checking OFP
