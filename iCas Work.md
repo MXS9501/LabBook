@@ -84,9 +84,11 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	5. Run all reactions out on 0.8 % agarose gel. Visualize in a gel imaging system.
 	6. Inoculate the positive colonies in 5 ml LB Broth with ampicillin, for overnight.
 	7. make the Glycerol Stock and isolate the plasmid using a miniprep kit.
+
 # Double Enzyme Check to the iCas backbone
 	1. Digest the sequence-correct plasmid with XbaI and SnaBbI for 3 hours
 	2. Run 1% Agarose Gel, with 100 V for 90 min.
+
 # Maxi Prep
 	1. Choose the right-sequence with right Backbone colony
 	2. Samll culture in 5 mL LB Broth with antibiotic for overnight.
@@ -95,6 +97,7 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	5. Do Maxi Prep following Kit protocol.
 	6. Elute DNA with DEPC water for 300~400 ul.
 	note: centrifugation is suggested after getting cell lysis and incubation with buffer.
+
 # Mammalian cell culture (adherent cells)
 	Note: All Reagent which is used for tissue culture shall be heated in 37 degree waterbath first.
 	1. Thaw 1 ml Hela S3 with 37 degree water bath, transfer the cell into 15 ml centrifuge tube with 2 ml PBS.
@@ -109,6 +112,7 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	10. Pipette the cells softly to dissociate the cell clumps into single cells.
 	11. Transfer 2 mL (6 mL to total) cells into a new dish (this represent a 1:3 split; higher or lower splitting ratios may be needed).
 	12. Incubate at 37C overnight, next day check the situation.
+
 # Transfection using Lipofectamine 2000.
 	Note: ALl reagent should be prepared well before starting this part.
 	1. Seed cells to be 70%-90% confluent at transfection
