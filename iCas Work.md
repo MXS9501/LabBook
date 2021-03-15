@@ -111,7 +111,9 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	12. Incubate at 37C overnight, next day check the situation.
 #	Transfection using Lipofectamine 2000.
 	Note: ALl reagent should be prepared well bafore strat this part.
-	1.
+	1. Seed cells to be 70%-90% confluent at transfection
+	2. Dilute Lipofectamine Reagent in Opti-MEM Medium.
+	3. Dilute DNA in Opti-MEM Medium
 
 
 #	FACS Checking OFP
