@@ -98,12 +98,15 @@ iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 	6. Elute DNA with DEPC water for 300~400 ul.
 	note: centrifugation is suggested after getting cell lysis and incubation with buffer.
 
-# Mammalian cell culture (adherent cells)
+# Mammalian cell culture (adherent cells, HeLa S3)
 	Note: All Reagent which is used for tissue culture shall be heated in 37 degree waterbath first.
+	Note: FBS should be melt in 4 degree overnight, before aliquoting into 50 mL tubes, FBS shoule be inactived under 55 degree.
+	Note: Typsin-EDTA should be melt in 4 degree. Before adding into plate, do pre-heat at RT.
+	
 	1. Thaw 1 ml Hela S3 with 37 degree water bath, transfer the cell into 15 ml centrifuge tube with 2 ml PBS.
 	2. Spin down the cell with 1000rpm, 1 min.
 	3. Discrd the supernatant, resuspend the cell using 1 mL DMEM with 10% FBS.
-	4. Transfer the cells onto 100mm dish (14 ml DMEM inside already) with 10% FBS in DMEM, recover overnight in 37°C, 5% CO2
+	4. Transfer the cells onto 100 mm dish (14 ml DMEM inside already) with 10% FBS in DMEM, recover overnight in 37°C, 5% CO2
 	5. Passage the cell while they are attached to walls and confluent. 
 	6. Examine under a microscope to make sure they are well incubated.
 	7. Aspirate the media and wash by 10 mL PBS. Then aspirate the PBS. Do this step twice.
