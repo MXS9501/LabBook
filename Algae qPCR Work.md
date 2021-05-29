@@ -2,7 +2,7 @@ Lab Protocol>>>>Project: Microcystis qPCR Work
 ---
 Author: Jiahao Cui>>>>Date: 20201110
 ---
-# Cell Number Counting
+# Cell Number Counting--
 
 Algae is cultured until OD value reached 1.2, the cell number is calculated by CASY system.
 
