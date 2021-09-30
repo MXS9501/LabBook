@@ -28,7 +28,6 @@ DEK full length Induce Exp.>>>>Cell System: BL21
 	3. Incubate tubes for 2 hours
 
 # SDS-PAGE
-
 	1. centrifuge the tubes at 10,000 xg at 4 degree for 5 min.
 	2. Discard supernatant
 	3. Add lyse cells using 40 ul 2% SDS.
