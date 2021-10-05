@@ -1,6 +1,7 @@
-Lab Protocol>>>>Project: Microcystis qPCR Work
+Microcystis qPCR Work
 ---
-Author: Jiahao Cui>>>>Date: 20201110
+Author: Jiahao Cui
+Date: 20201110
 ---
 # Cell Number Counting
 

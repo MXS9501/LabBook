@@ -1,6 +1,7 @@
-Lab Protocol>>>>Project: DEK Work
+DEK Full length Induce Expression
 ---
-Author: Jiahao Cui>>>>Date: 20200916
+Author: Jiahao Cui
+Date: 20200916
 ---
 DEK full length Induce Exp.>>>>Cell System: BL21
 ---

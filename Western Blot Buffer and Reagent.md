@@ -1,4 +1,4 @@
-Lab Protocol
+Western Blot Buffer and Reagent
 ---
 Author: Jiahao Cui
 Date: 20200911

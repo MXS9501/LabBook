@@ -1,8 +1,8 @@
 Cell Culture Protocol
-
+---
 Author: Jiahao Cui
 Date: 20211001
-
+---
 # 细胞mRNA的抽提
 	a. 细胞样品吸去培液，用预冷的PBS洗一次，加入1 ml Trizol，4℃放置10 min，充分裂解细胞。
 	b. 将细胞裂解液转移到1.5 ml RNase-free的离心管中，Vortex混匀，加入200 ul RNase-free氯仿，充分混匀，室温放置5 min。
@@ -62,9 +62,19 @@ Date: 20211001
 	6. re-suspend cells using 1 ml inactived-FBS gently, then add 100 ul DMSO and mix them well (if the cell intensty is too high, 2 ml FBS and 200 ul DMSO are suggested).
 	7. Add 1 ml cell mixture into cryo tube.
 	8. Place the tube into cell programmed freezing box, the place the box at -80 degree for overnight (at least 12 hours).
-		9. Transfer the tubes into liquid nitrogrn tank on next day.
+	9. Transfer the tubes into liquid nitrogrn tank on next day.
 
 # Cell Recovery
 
-	1. Cryo tube is taken from Liquid Nitrogen and prewarmed at 37 degree. (NOT PLACE THE TUBE FOR TOO LONG TIME)
-	2. 
+	1. Cryo tube is token from Liquid Nitrogen and prewarmed at 37 degree. (NOT PLACE THE TUBE FOR TOO LONG TIME)
+	2.1 Prepare cell dish with pre-warmed Medium (10 ml, 10 cm Dish/ 4 ml, 6 cm Dish)
+	
+	OR
+	2.2 Prepare pre-warmed Medium in 50 ml tube,
+
+	3.1 Transfer the cell onto the plate, seed the with crossline, shake the plate gently.
+
+	OR
+	3.2 Transfer the cell into tube containing Medium, and mix well, then transfer cell-medium mixture onto plate.
+	4. Place the cell plate at 37 degree for overnight, change the medium after 6 hours if it needed.
+	5. Check the cell confluency next day to deciede sub-culture time.

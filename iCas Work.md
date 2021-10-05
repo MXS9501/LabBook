@@ -1,6 +1,7 @@
-Lab Protocol>>>>Project: iCas Work
+iCas Work
 ---
-Author: Jiahao Cui>>>>Date: 20210310
+Author: Jiahao Cui
+Date: 20210310
 ---
 iCas-sgRNA Work with Ligation, Cell Transfection, FACS Sorting, 4-HT Treatment.
 ---
