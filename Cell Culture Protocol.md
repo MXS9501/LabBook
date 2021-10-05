@@ -66,4 +66,5 @@ Date: 20211001
 
 # Cell Recovery
 
-	1.
+	1. Cryo tube is taken from Liquid Nitrogen and prewarmed at 37 degree. (NOT PLACE THE TUBE FOR TOO LONG TIME)
+	2. 
