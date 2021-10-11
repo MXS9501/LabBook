@@ -78,3 +78,6 @@ Date: 20211001
 	3.2 Transfer the cell into tube containing Medium, and mix well, then transfer cell-medium mixture onto plate.
 	4. Place the cell plate at 37 degree for overnight, change the medium after 6 hours if it needed.
 	5. Check the cell confluency next day to deciede sub-culture time.
+
+# Cell Transfection
+	1. 
