@@ -79,5 +79,30 @@ Date: 20211001
 	4. Place the cell plate at 37 degree for overnight, change the medium after 6 hours if it needed.
 	5. Check the cell confluency next day to deciede sub-culture time.
 
-# Cell Transfection
-	1. 
+# Plasmid DNA Transfection
+
+	1. Cells are ready with 70-90% confluent in a 3.5 cm glass bottom dish.
+	2. Dilute 5 ul Lipo3000 with 125 ul Opti-MEM
+	3. Dilute 1.5 ug plasmid with 125 ul Opti-MEM
+	4. Add Dilute DNA to tube of diluted Lipo3000 (1:1 Ratio)
+	5. Incubate for 10-15 min at room tempreture.
+	6. Disacrd medium in the plate gently, and wash cells with PBS twice.
+	7. Add 1 ml Opti-MEM into each well.
+	8. Add DNA-Lipid complex to Cells with crossline, and shake plate gently.
+	9. Incubate cells at 37 degree, and change Medium with 2.5 ml DMEM/FBS after 4 hours.
+	10. Incubate cells for 48 hours, then analyze.
+
+# siRNA Transfection
+
+	In this section, 100 pmol siRNA is applied to each sample
+	1. siRNA samples are diluted in 125 ul DEPC water (1 OD with 125 ul).
+	2. Dilute 5 ul Lipo3000 with 125 ul Opti-MEM
+	3. Delute 5 ul siRNA sample with 125 ul Opti-MEM
+	4. Add diluted siRNA into deluted lipo3000 (1:1 Ratio).
+	5. Incubate Lipo-siRNA complex at room tempreture for 15 min.
+	6. Disacrd medium in 6-well plate gently, and wash cells with PBS twice.
+	7. Add 1 ml Opti-MEM into each well.
+	8. Add dropwise Lipo-siRNA complex into the wells.
+	9. Incubate plate at 37 degree, and change the medium with 2 ml DMEM/FBS after 4 hours.
+	10. Incubate cells for 48 hours, then do the analyze.
+
