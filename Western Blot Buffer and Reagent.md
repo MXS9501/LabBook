@@ -39,7 +39,7 @@ Western Blot Buffer and Reagent
 	-87.66 g NaCl (1.5M)
 	-1 Liter Milli-Q
 	Adjust PH to 7.6 with HCl
-# TBST-T
+# TBS-T
 	-100 ml, TBS buffer
 	-1 ml, Tween-20
 	-899 ml Milli-Q
