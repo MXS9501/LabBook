@@ -1,0 +1,60 @@
+# LabBook
+
+Hi There!
+This is Jiahao Cui, Working at XJTLU (SUCHOW, CHINA) as LAB TECHNICIAN in BIOLOGICAL SCIENCE DEPARTMENT.
+Here is set up my lab protocol and also this is a general protocol, you can use them and give a little modify according to your project.
+
+## Explore the expression of Protein hsSENP2 in Procaryotic Cells (2022.08 - now)
+Dr. Yue Chunmei Lab, Xi’an Jiaotong-Liverpool University
+
+Project Description:
+This project uses codon optimization techniques to optimize possible problems of proteins in prokaryotic expression systems. At present, it is known that the protein is mainly expressed in the inclusion body species, and the purification technology of the inclusion body protein is also a hot topic in the field of technical research. The study on the expression and purification of hsSENP2 in the prokaryotic system can provide a better research prospect for the subsequent research on the pathogenesis of SENP2 protein.
+
+## Establishment of iPS cell platform for AD disease cell model (2021.09 - now)
+Dr.Yue Chunmei Lab, Xi'an Jiaotong-Liverpool University
+
+The project uses the treated MEF as a feeder layer, and uses H9 human embryonic stem cells to induce brain neural differentiation for the study of AD cell model experiments.
+Project Description: 
+1. Use mouse embryos as cell source, and obtain pure MEF cell line after treatment.
+2. Treatment with Mitomycin to Obtain Mouse Embryonic Fibroblast Feeder Layers.
+(The project is still under discussion and construction)
+
+## Construction of inducible knockout cell lines of oncogenic proteins (2020.06 – 2022.08)
+Dr. Ferdinand Kappes Lab, Xi'an Jiaotong-Liverpool University
+
+The project provides a reliable cell platform and a solid foundation for cancer cell targeted treatment and further research on cancer cell targeted therapy.
+Project description: 
+1. Using chromosomal site analysis and molecular cloning technology, construct the target fragment into the CRIPSER/dCAS9 system.
+2. Using fluorescent protein labeling and flow cytometry (Flow Cytometry), the cell lines were screened and cultured for subsequent comparison processing.
+3. Quantitative analysis of protein knockout efficiency using cell staining.
+4. Using lentiviral transfection technology, a stable genetic inducible knockout eukaryotic cell line was successfully obtained.
+5. Validation of knockout of eukaryotic intracellular protein using Western Blot.
+
+## Research on mRNA extraction and gene expression screening of cyanobacteria in Taihu Lake (2020.01 – 2020.06)
+Dr. Boris Tefsen Lab, Xi'an Jiaotong-Liverpool University
+
+The project explores the specific extraction of cyanobacteria mRNA in Taihu Lake, and uses qPCR technology to screen target gene expression
+Project description: 
+1. Using low temperature and high-speed shaking method to achieve quantitative and high-purity mRNA extraction from cyanobacterial cells.
+2. Use qPCR technology to screen multiple groups of target genes.
+
+## Research on the interaction between protein ALYREF and DNA (2019.02 - 2020.04)
+Dr. Ferdinand Kappes Lab, Xi'an Jiaotong-Liverpool University
+
+This project provides new feasible research ideas and methods for the pathogenesis of cancer proteins.
+Project description: 
+1. Amplify and clone cancer protein gene into expression system to achieve many stable inducible cancer protein expressions.
+2. Qualitative and quantitative analysis of the interaction between the target protein and DNA/chromosome to screen and confirm the interaction fragment between the target protein and DNA.
+3. Use Random Mutation and Electrophoresis Migration Technology (EMSA) of the target protein gene to screen specific interaction sites.
+4. Feasibility analysis of mutant genes and amino acids using high-throughput sequencing.
+
+## Induce and expression of protein molecular clone (2017.03 - 2017.07)
+Dr. Zhou Shutang Lab, Henan University
+
+The construction and expression of the project protein ensures the stable development of the preparation work in the later stage of the project
+Project Description: 
+The project was implemented in the State Key Laboratory of Plant Stress at Henan University
+1.	Target fragment amplification of insect target protein molecules (Molecular Cloning)
+2.	Cloning the target fragment into a prokaryotic protein expression system only
+3.	Induce the expression of the target protein in a prokaryotic expression system (Protein Induced and Express)
+4.	Qualitative analysis of target protein (Western Blot)
