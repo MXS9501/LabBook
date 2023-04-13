@@ -16,7 +16,7 @@ Date: 20211001
 	2.	Add 1 mL Trizol, place the cell plate in 4 degree for 10 min.
 	3.	Transfer the cell lysis to 1.5 RNase-free tube, mix using Vortex, add 200 ul RNase-free Chloroform, mix well, stand at RT for 5 min.
 	4.	Spin down the mixture at 12,000 rpm in 4 degree for 15 min. 
-	5.	Discard aqueous phase (upper, around 450 ul)
+	5.	Take aqueous phase (upper, around 450 ul)
 	6.	Add 450 ul Isopropanol, mix by inverting for 6 times, stand the tube at RT for 10 min.
 	7.	Spin down the mixture at 12,000 rpm, 4-degree, 10 min.
 	8.	Discard supernatant then add 1 mL 80 % Ethanol-DEPC to wash the salt.
