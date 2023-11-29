@@ -1,9 +1,7 @@
-Western Blot Buffer and Reagent
+Buffer List From Ferdi Lab
 ---
 Author: Jiahao Cui
-Date: 20200911
----
-Western Blot Buffer and Reagent
+Update: 20231129
 ---
 # 10% APS (5 mL)
 	-50 mg APS
