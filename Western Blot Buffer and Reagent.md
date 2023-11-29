@@ -97,51 +97,51 @@ Western Blot Buffer and Reagent
 	-20 % APS	30 μl
 
 # His-tag Protein Purification Buffer:
-	Lysis Buffer:	
+## Lysis Buffer:	
 	-0.02 M Tris
 	-0.35 M NaCl
 	-0.02 M Imidazole
 	-pH 7.5	
-	Wash Buffer I & III:	
+## Wash Buffer I & III:	
 	-0.02 M Tris
 	-0.35 M NaCl
 	-0.04 M Imidazole
 	-pH 7.5
-	Wash Buffer II:	
+## Wash Buffer II:	
 	-0.02 M Tris
 	-0.7 M NaCl
 	-0.04 M Imidazole
 	-pH 7.5	
-	Elution Buffer:
+## Elution Buffer:
 	-0.02 M Tris
 	-0.35 M NaCl
 	-0.5 M Imidazole
 	-pH 7.5
 
 # GST-tag Protein Purification Buffer (1mM DTT added to Lysis, Wash I and Wash II):
-	Lysis Buffer:	
+## Lysis Buffer:	
 	-0.02 M Tris
 	-1 M NaCl
 	-0.5 mM EDTA
 	-pH 8.0
-	Wash Buffer I:		
+## Wash Buffer I:		
 	-0.02 M Tris
 	-0.5 M NaCl
 	-0.5 mM EDTA
 	-0.1 % NP40
 	-pH 8.0	
-	Wash Buffer II:	
+## Wash Buffer II:	
 	-0.02 M Tris
 	-0.3 M NaCl
 	-0.5 mM EDTA
 	-0.1 % NP-40
 	-pH 8.0	
-	Wash Buffer III:	
+## Wash Buffer III:	
 	-0.02 M Tris
 	-0.2 M NaCl
 	-0.5 mM EDTA
 	-pH 8.0	
-	Elution Buffer:
+## Elution Buffer:
 	-0.2 M Tris
 	-0.2 M NaCl
 	-0.04 M reduced Glutathione
